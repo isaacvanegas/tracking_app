@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">tracking_app</string>
+
+    <string name="lbBienvenido">Bienvenido</string>
+    <string name="lbTitle">Sistema de contro y seguimiento de proyecto</string>
+    <string name="lbForgetPassword">Olvidaste la contraseña</string>
+    <string name="lbSign_in">Entrar</string>
+    <string name="hintUsername">Usuario</string>
+    <string name="hintPassword">Contraseña</string>
+    <string name="taskStatus">Estado de las tareas</string>
+    <string name="taskList">Lista de tareas</string>
+    <string name="proyect">Proyecto</string>
+    <string name="task">Tarea</string>
+    <string name="expiration">Vencimiento</string>
+    <string name="status">Estado</string>
+    <string name="home">Inicio</string>
+    <string name="date">30/10/2024</string>
+    <string name="menu">Menú</string>
+    <string name="gion">-</string>
+    <string name="poaProyect">POA proyecto</string>
+    <string name="asingUserTask">Asignación de tareas</string>
+    <string name="currenciCodeUSD">USD</string>
+    <string name="total">3,0000</string>
+    <string name="namePoa">POA Ozono 2024</string>
+    <string name="anio">2024</string>
+    <string name="descripcionPOA">Controlar las sustancias agotadoras de la capa de ozono , conservación de la biodiversidad</string>
+    <string name="nombreProyecto">Proyecto s0f5e5dfs</string>
+    <string name="search">Buscar</string>
+</resources>
