@@ -26,4 +26,11 @@
     <string name="descripcionPOA">Controlar las sustancias agotadoras de la capa de ozono , conservación de la biodiversidad</string>
     <string name="nombreProyecto">Proyecto s0f5e5dfs</string>
     <string name="search">Buscar</string>
+    <string name="boxsend">boxSend</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="copyRight">© Copyright 2024. Todos Los Derechos Reservados.</string>
+    <string name="login">Login</string>
+    <string name="ingrese_sus_credenciales">Ingrese sus credenciales</string>
+    <string name="correo">Correo</string>
+    <string name="recordarme">Recordarme</string>
 </resources>
