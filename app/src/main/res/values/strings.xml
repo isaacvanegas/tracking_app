@@ -1,12 +1,14 @@
 <resources>
     <string name="app_name">tracking_app</string>
 
-    <string name="lbBienvenido">Bienvenido</string>
+    <string name="lbReservas">RESERVAS.NI</string>
     <string name="lbTitle">Sistema de contro y seguimiento de proyecto</string>
     <string name="lbForgetPassword">Olvidaste la contraseña</string>
-    <string name="lbSign_in">Entrar</string>
+    <string name="lbSign_in">ACCEDER</string>
+    <string name="lbSign_up">Registrarse</string>
     <string name="hintUsername">Usuario</string>
     <string name="hintPassword">Contraseña</string>
+    <string name="repetirPassword">Repetir Contraseña</string>
     <string name="taskStatus">Estado de las tareas</string>
     <string name="taskList">Lista de tareas</string>
     <string name="proyect">Proyecto</string>
@@ -30,7 +32,9 @@
     <string name="bienvenido">Bienvenido</string>
     <string name="copyRight">© Copyright 2024. Todos Los Derechos Reservados.</string>
     <string name="login">Login</string>
+    <string name="registro">Registrarse</string>
     <string name="ingrese_sus_credenciales">Ingrese sus credenciales</string>
     <string name="correo">Correo</string>
+    <string name="nombre">Nombre</string>
     <string name="recordarme">Recordarme</string>
 </resources>
